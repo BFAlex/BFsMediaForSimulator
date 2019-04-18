@@ -1,0 +1,2 @@
+# BFsMediaForSimulator
+在Xcode的模拟器上FFmpeg编译使用framework
